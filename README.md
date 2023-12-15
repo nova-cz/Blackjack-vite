@@ -12,7 +12,7 @@ Pasos para ejecutar proyecto:
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
 
-[!NOTE]
+> [!NOTE]
 
 > Case 1: When the player wins. 
 [![1.jpg](https://i.postimg.cc/Y96DXN2k/1.jpg)](https://postimg.cc/CBK45qf6)
