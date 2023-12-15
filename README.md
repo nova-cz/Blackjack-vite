@@ -15,11 +15,14 @@ Pasos para ejecutar proyecto:
 > [!NOTE]
 > Cases in the Game.
 
-> <font color="green">Case 1: When the player wins.</font> 
+> [!IMPORTANT]
+> Case 1: When the player wins. 
 [![1.jpg](https://i.postimg.cc/Y96DXN2k/1.jpg)](https://postimg.cc/CBK45qf6)
 
+> [!IMPORTANT]
 > Case 2: When computer wins.
 [![2.jpg](https://i.postimg.cc/ydpjpfqM/2.jpg)](https://postimg.cc/vg95ctZh)
 
+> [!IMPORTANT]
 > CAse 3: When nobody wins.
 [![3.jpg](https://i.postimg.cc/D0HThdGD/3.jpg)](https://postimg.cc/gLV5qhNq)
