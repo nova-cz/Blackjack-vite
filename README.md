@@ -13,6 +13,7 @@ Pasos para ejecutar proyecto:
 2. Tomar la carpeta ```dist``` y desplegarla
 
 > [!NOTE]
+> Cases in the Game.
 
 > Case 1: When the player wins. 
 [![1.jpg](https://i.postimg.cc/Y96DXN2k/1.jpg)](https://postimg.cc/CBK45qf6)
