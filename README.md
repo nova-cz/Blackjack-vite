@@ -15,7 +15,7 @@ Pasos para ejecutar proyecto:
 > [!NOTE]
 > Cases in the Game.
 
-> Case 1: When the player wins. 
+> <font color="green">Case 1: When the player wins.</font> 
 [![1.jpg](https://i.postimg.cc/Y96DXN2k/1.jpg)](https://postimg.cc/CBK45qf6)
 
 > Case 2: When computer wins.
